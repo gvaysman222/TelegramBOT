@@ -1,0 +1,4 @@
+telegram
+openai
+requests
+sqlite3
